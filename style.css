@@ -1,0 +1,125 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px 100px;
+    padding: 0px;
+}
+
+h1{
+    font-weight: 200px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #d309b1;
+}
+
+p{
+    color: dimgray;
+}
+
+section{
+    height: 950px;
+    padding-bottom: 100px; 
+}
+
+.half-width{;
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+}
+
+.pragraph{
+    padding-top: 15%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #d309b1;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.link-button:hover{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightskyblue;
+}
+
+.middle-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.center{
+    text-align: center;
+    padding-top: 15%;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.one-third{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    
+}
+
+.one-third img{
+    width: 100%;
+}
+
+.third-banner{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.footer h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 35px;
+}
+
+.founder{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.founder h6{
+    color: #777070;
+}
+
+.style{
+    padding: 20px 620px;
+}
+
+.box-design{
+    text-align: center;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    margin: 20px 600px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+footer p{
+    font-size: small;
+    color: #9b9a9a;
+    text-align: center;
+    padding-top: 50px;
+}
+
